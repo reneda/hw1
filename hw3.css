@@ -78,3 +78,29 @@ img {
     margin-left: 40px;
     border: 3px solid #d534bc;
 }
+table, td, th {
+  border: 2px solid white;
+  text-align:center;
+  background:#d9ff66;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+  border-radius:10px;
+  height:200px;
+}
+
+th {
+  color:#ffffff;
+  height: 50px;
+   background:#089655;
+  background:linear-gradient(#00ff00,#99cc00);
+}
+tr:hover
+{
+opacity=0.5;
+}
+table:first-child{
+text-align:left;
+}
