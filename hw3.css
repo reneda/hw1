@@ -78,13 +78,13 @@ img {
     margin-left: 40 px;
     border: 3 px solid #d534bc;
 }
-table, td, th {
+/*table, td, th {
   border: 2 px solid white;
   text-align:center;
   background:#d9ff66;
 }
 
-/*table {
+table {
   border-collapse: collapse;
   width: 50%;
   border-radius:5 px 5 px 0 0;
